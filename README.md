@@ -1,6 +1,6 @@
 # Ceramic-store
 
-Project Overview
+Project Overview:
 This project is an online product ordering system designed to provide users with a seamless and intuitive experience when browsing and placing orders for distinctive products. Leveraging the versatile Python framework, Tkinter, the project features a user-friendly Graphical User Interface (GUI) that offers a comprehensive suite of functionalities, including user registration, login authentication, automated email confirmations, and order cancellation.
 
 Features
